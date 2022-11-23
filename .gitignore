@@ -1,3 +1,5 @@
 my/
 *.[oa]
 *~
+__pycache__/
+/main.log
