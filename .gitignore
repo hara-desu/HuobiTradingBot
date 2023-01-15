@@ -2,4 +2,8 @@ my/
 *.[oa]
 *~
 __pycache__/
-/main.log
+main.log
+*.idea/
+venv/
+config.py
+test.py
